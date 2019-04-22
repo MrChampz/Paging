@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paging</string>
+    <string name="tx_loading">Carregando</string>
+    <string name="tx_language">Linguagem: %s</string>
+    <string name="tx_hint_search">Repositório Github</string>
+    <string name="tx_no_results">Sem resultados 😓</string>
+    <string name="tx_unknown">\?</string>
+</resources>
